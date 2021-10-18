@@ -4,7 +4,6 @@
   Call the function.
 */
 
-const { arrayBuffer } = require("stream/consumers");
 
 //CODE HERE
 function helloWorld() {
